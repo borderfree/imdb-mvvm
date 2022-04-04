@@ -10,3 +10,4 @@ TMDB iOS App:
 ✅ High order function usage 
 ✅ Paginations & Pull To Refresh 
 ✅ IMDB button click redirection with imdb_id
+✅ No storyboard usage in Detail View Controller
