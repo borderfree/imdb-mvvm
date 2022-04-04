@@ -12,7 +12,7 @@ import UIKit
 
 struct Domain {
     static let baseURL = "https://api.themoviedb.org/3"
-    static let imageURL = "https://image.tmdb.org/t/p/w185/"
+    static let imageURL = "https://image.tmdb.org/t/p/w500/"
     
 }
 
