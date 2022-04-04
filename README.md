@@ -4,7 +4,7 @@ TMDB iOS App:
 
 ✅ Swift
 ✅ Codable
-✅ Network Layer: URLSession or Alamofire 
+✅ Network Layer: Alamofire and URLSession (I make for optional usage.)
 ✅ Design Patern: MVVM 
 ✅ 3 party library usage with Cocoapods 
 ✅ High order function usage 
